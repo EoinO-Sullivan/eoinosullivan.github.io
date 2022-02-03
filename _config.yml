@@ -11,9 +11,9 @@ title                    : "Eoin O'Sullivan"
 title_separator          : "-"
 name                     : &name "Eoin O'Sullivan"
 description              : &description "PhD Candidate at University College Cork"
-url                      : https://eoinosullivan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eoinosullivan/eoinosullivan.github.io"
+url                      : https://eoino-sullivan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+repository               : "EoinO-Sullivan/home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
