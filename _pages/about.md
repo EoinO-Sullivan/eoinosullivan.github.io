@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD candidate in Applied mathematics at University College Cork, supervised by [Kieran Mulchrone](http://publish.ucc.ie/researchprofiles/D019/kmulchrone). My research interests include nonlinear dynamics, critical transitions, rate-induced tipping, multiscale systems, geometric singular perturbation theory, and earth system models.
 
-I am currently based in London. If you wish to get in contact, my email is available in the toolbar on the right. I will be giving a number of talks this year which will be listed [here](https://eoino-sullivan.github.io/home/talks/) along with information / recordings of previous talks I have given.
+I am currently based in London. If you wish to get in contact, my email is available in the toolbar on the left. I will be giving a number of talks this year which will be listed [here](https://eoino-sullivan.github.io/home/talks/) along with information / recordings of previous talks I have given.
 
 <!--- This is a website template I am working on for postgraduate students at the school of Mathematical Sciences at University College Cork. You can use this template to create your own academic website to showcase your work, code and even your thoughts!
 
