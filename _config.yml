@@ -85,10 +85,10 @@ author:
   bio              : "Applied Mathematics PhD Candidate at University College Cork"
   location         : "London"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=Bu_SwVcAAAAJ"
   email            : "eoin.geoffrey.osullivan@umail.ucc.ie"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Eoin-Osullivan-4"
   uri              :
   bitbucket        :
   codepen          :
