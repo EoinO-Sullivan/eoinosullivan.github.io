@@ -20,11 +20,6 @@ Work experience
   * Kaplan International College London
   * Duties include: Preparing and delivering lessons, correcting assignments and delivering feedback, coordinating with the module leader and other tutors, pastoral support.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -45,4 +40,5 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Postgraduate Student Representative on the UCC School of Mathematics Graduate Studies Committee
+* School of Mathematical Sciences Representative on the SEFS Postgraduate Committee.
